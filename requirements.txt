@@ -1,0 +1,16 @@
+streamlit
+pandas
+plotly
+networkx
+matplotlib
+scikit-learn
+wordcloud
+textblob
+altair
+seaborn
+Pillow
+folium
+streamlit-folium
+streamlit-option-menu
+statsmodels
+numpy
