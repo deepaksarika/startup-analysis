@@ -192,8 +192,8 @@ with st.sidebar:
         filtered_df = df.copy()
     
     st.markdown("---")
-    st.markdown("**Developed by Deepak**")
-    st.markdown("**Enhanced by AI**")
+    st.markdown("**Developed by Deepak and Team**")
+
 
 # Content based on navigation
 if selected == "Overview":
