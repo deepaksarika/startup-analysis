@@ -136,11 +136,8 @@ try:
 except Exception as e:
     st.error(f"Error loading data: {e}")
     st.stop()
-image_path="C:/Users/dsarika/OneDrive - Stony Brook University/Desktop/startupproject/da-proj1/startuppic.jpg"
 # Navigation
 with st.sidebar:
-  
-
     st.markdown("<h1 style='text-align: center;'>Startup Insights</h1>", unsafe_allow_html=True)
     
     selected = option_menu(
